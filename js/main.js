@@ -9,7 +9,7 @@
       });
     }
   });
-  They don't care about us 
+
 
   // Back to top button
   $(window).scroll(function() {
